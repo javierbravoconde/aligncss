@@ -1,0 +1,22 @@
+html, body {
+    height:100%;
+}
+
+.dotted{
+border-style: dotted;
+}
+
+.maincontainer{
+    height: 20%;
+	width: 100%;
+    border: 1px solid black;
+	display: flex;
+	background-color: gray;
+	
+}
+
+.aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
