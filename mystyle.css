@@ -15,6 +15,13 @@ border-style: dotted;
 	
 }
 
+.contentcontainer{
+    height: 80%;
+	width: 100%;
+	background-color: green;
+	
+}
+
 .aligner {
   display: flex;
   align-items: center;
