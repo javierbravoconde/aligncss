@@ -22,6 +22,29 @@ border-style: dotted;
 	
 }
 
+.menuvertical{
+	position: absolute;
+	width: 20%;
+	height: 80%;
+	background-color: black;
+}
+
+.itemscontainer{
+	left: 20%;
+	position: absolute;
+	width: 80%;
+	height: 80%;
+	background-color: blue;
+}
+
+.shoppingbasket{
+	position: absolute;
+    right: 0px;
+    width: 30%;
+    height: 80%;
+	background-color: green;
+}
+
 .aligner {
   display: flex;
   align-items: center;
